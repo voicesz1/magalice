@@ -75,6 +75,10 @@ a:hover{
     display: none;
 }
 
+.login-signup {
+    display: block;
+}
+
 @media (max-width: 768px){
     #btn-mobile{
         display: block;
@@ -148,6 +152,9 @@ a:hover{
 
     #logo {
         width: 100%;
+    }
+    .login-signup{
+        display: none;
     }
 }
 
