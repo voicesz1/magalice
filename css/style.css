@@ -79,7 +79,7 @@ a:hover{
     display: block;
 }
 
-@media (max-width: 768px){
+@media (max-width: 600px){
     #btn-mobile{
         display: block;
     }
@@ -112,7 +112,7 @@ a:hover{
 
     #btn-mobile{
         display: flex;
-        padding: .5rem 1rem;
+        padding: -35.7rem 1rem;
         font-size: 1rem;
         border: none;
         background: none;
@@ -121,7 +121,7 @@ a:hover{
     }
 
     #hamburguer{
-        width: 20px;
+        width: 100%;
         border-top: 2px solid;
         display: block;
     }
