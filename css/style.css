@@ -154,7 +154,7 @@ a:hover{
         width: 100%;
     }
     .login-signup{
-        display: none;
+        display: block;
     }
 }
 
